@@ -10,7 +10,7 @@
     </h2>
     <nav>
       {{ $current := . }} {{ range .Site.Menus.nav }}
-      <a href="{{ .URL }}"> {{ .Name }} </a>
+      <a href="{{ .URL }}" class="nav_links"> {{ .Name }} </a>
       {{ end }}
     </nav>
   </div>

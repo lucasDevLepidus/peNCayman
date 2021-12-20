@@ -6,7 +6,7 @@ date: 2013-03-18T18:44:06+00:00
 
 ---
 # Clientes atuais do serviço Periódicos em 
-  ### Portais de Periódicos em SEER/OJS:
+### Portais de Periódicos em SEER/OJS:
           
   * [Portal de Periódicos Científicos da Universidade Federal do Rio Grande][1] (FURG) com 16 periódicos
   * [Portal de Periódicos Eletrônicos da  Universidade Federal do Rio Grande do Norte][2] (UFRN) com 30 periódicos
@@ -14,7 +14,7 @@ date: 2013-03-18T18:44:06+00:00
   * [Revistas do Centro Universitário FACEX][4] (UNIFACEX) com 3 periódicos
   * [Portal de Periódicos da Universidade Federal de Goiás][5] (UFG) com 31 periódicos
 
-  ### Periódicos:
+### Periódicos:
 
   * [Revista Produção Online da Associação Brasileira de Engenharia de Produção][6] &#8211; ABEPRO
   * [Revista Brasileira de Medicina de Família e Comunidade (RBMFC)][7] &#8211; SBMFC

@@ -9,12 +9,8 @@
       {{ $.Site.Params.project_tagline | markdownify }}
     </h2>
     <nav>
-      {{ $current := . }} {{ range .Site.Menus.nav }} {{ $active := or
-      ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }} {{
-      $active = or $active (eq .Name $current.Title) }} {{ $active = or $active
-      (and (eq .Name "Blog") (eq $current.Section "post")) }} {{ $active = or
-      $active (and (eq .Name "Tags") (eq $current.Section "tags")) }}
-      <a href="{{ .URL }}" class="nav_links">{{ .Name }}</a>
+      {{ $current := . }} {{ range .Site.Menus.nav }}
+      <a href="{{ .URL }}"> {{ .Name }} </a>
       {{ end }}
     </nav>
   </div>

@@ -5,9 +5,9 @@ type: page
 date: 2012-02-06T14:02:00+00:00
 
 ---
-### O que é o Periódicos em Nuvens?
+# O que é o Periódicos em Nuvens?
 
-**Periódicos em Nuvens** é uma solução completa oferecida pela [Lepidus Tecnologia][1] para melhor atender equipes de editores científicos de periódicos online. Para isso, utilizamos como base o consagrado [Sistema Eletrônico de Editoração de Revistas (SEER)]({{< relref "seer/index.md" >}}) ou [Open Journal Systems (OJS)]({{< relref "open-journal-systems-ojs/index.md">}}), como é conhecido internacionalmente.
+O **Periódicos em Nuvens** é uma solução completa oferecida pela [Lepidus Tecnologia][1] para melhor atender equipes de editores científicos de periódicos online. Para isso, utilizamos como base o consagrado [Sistema Eletrônico de Editoração de Revistas (SEER)]({{< relref "seer/index.md" >}}) ou [Open Journal Systems (OJS)]({{< relref "open-journal-systems-ojs/index.md">}}), como é conhecido internacionalmente.
 
 Nesta solução, oferecemos um ambiente OJS pronto para o uso, além de uma série de serviços adicionais para atender as necessidades específicas de cada equipe editorial, de forma que as instituições possam concentrar esforços no que é mais relevante, o fluxo editorial e elaboração do conteúdo dos periódicos, sem mais se preocupar com problemas técnicos relativos a instalação e manutenção deste ambiente.
 

@@ -4,8 +4,7 @@ author: Lepidus
 type: page
 date: 2012-03-16T14:16:05+00:00
 ---
-
-## Planos
+# Planos
 
 Oferecemos os seguintes planos para o serviço de periódicos em nuvens. Escolha o plano que melhor se adeque a realidade do(s) seu(s) periódico(s).
 

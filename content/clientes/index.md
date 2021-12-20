@@ -5,7 +5,7 @@ type: page
 date: 2013-03-18T18:44:06+00:00
 
 ---
-## Clientes atuais do serviço Periódicos em 
+# Clientes atuais do serviço Periódicos em 
   ### Portais de Periódicos em SEER/OJS:
           
   * [Portal de Periódicos Científicos da Universidade Federal do Rio Grande][1] (FURG) com 16 periódicos

@@ -37,7 +37,7 @@ params:
     pen: /images/pen.png
     penAzulBranco: /images/penAzulBranco.png
     logoPenAzulBranco: /images/logoPenAzulBranco.png
-    newLogo: /images/newLogo.png
+    newLogo: /images/peNLogoProvisoria.png
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex: true

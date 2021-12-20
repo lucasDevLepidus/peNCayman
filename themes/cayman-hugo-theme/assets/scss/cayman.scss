@@ -413,10 +413,11 @@ a {
 
     .row{
       display: flex;
+      justify-content: center;
       flex-wrap: wrap;
 
       .footerCol{
-        width: 25%;
+        width: 20%;
         padding: 0 0.9375rem;
 
         ul{
@@ -439,6 +440,12 @@ a {
             }
           }
         }
+
+        a img{
+         width: 161px;
+         height: 40px;
+        }
+        
         @media (max-width: 48rem) {
           width: 50%;
           margin-bottom: 1.875rem;
@@ -455,23 +462,18 @@ a {
 #header{
   color: $header-heading-color;
   text-align: center;
-  // background-color: $header-bg-color;
-  
-  // background-color: #43302e;
-  // background-image: linear-gradient(315deg, #43302e 0%, #ad6f69 74%);
-  // background-color: #69140e;
-  // background-image: linear-gradient(315deg, #69140e 0%, #d58936 74%);
-  // background-color: #a55c1b;
-  // background-image: linear-gradient(315deg, #a55c1b 0%, #000000 74%);
-  // background-color: #ffa69e;
-  // background-image: linear-gradient(315deg, #ffa69e 0%, #5d4954 74%);
-  // background-color: #a40606;
-  // background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
-  // background-color: #b8c6db;
-  // background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
 
-  background-color: #485461;
+  background-color: #b8c6db;
+ 
   padding: 3rem 4rem;
+
+  h2{
+    color: #212529;
+  }
+
+  .nav_links{
+    color: #495057;
+  }
   
   .imageLogo{
     a img{
@@ -494,19 +496,23 @@ a {
 }
 
 .main-content h1{
-  color: #28313b;
+  color: #0ec2f3;
+  // color: #28313b;
 }
 
 .main-content h2{
-  color: #1971c2;
+  color: #3b4252;
+  // color: #1971c2;
 }
 
 .main-content h3{
-  color: #339af0;
+  // color: #339af0;
+  color: #434c5e;
 }
 
 .main-content h4{
-  color: #5e81ac;
+  // color: #5e81ac;
+  color: #339af0;
 }
 
 .nav_links{

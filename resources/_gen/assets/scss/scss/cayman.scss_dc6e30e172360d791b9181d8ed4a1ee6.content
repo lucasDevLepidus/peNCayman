@@ -299,7 +299,7 @@ a {
 #header {
   color: #fff;
   text-align: center;
-  background-color: #b8c6db;
+  background-image: linear-gradient(to right top, #0ec2f3, #26d3e1, #6adfc9, #a4e8b4, #d9edaa);
   padding: 3rem 4rem; }
   #header h2 {
     color: #212529; }

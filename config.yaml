@@ -29,6 +29,9 @@ params:
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: 01-02-2006
 
+  #css
+  css: /assets/scss/cayman.scss
+
   # Footer text, can be markdown
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [CloudFlare](https://dash.cloudflare.com/).
 

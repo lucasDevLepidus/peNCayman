@@ -5,9 +5,6 @@
         <img src="{{ .Site.Params.logo.newLogo }}" alt="Periodico em Nuvens" />
       </a>
     </div>
-    <h2 class="project-tagline">
-      {{ $.Site.Params.project_tagline | markdownify }}
-    </h2>
     <nav>
       {{ $current := . }} {{ range .Site.Menus.nav }}
       <a href="{{ .URL }}" class="nav_links"> {{ .Name }} </a>

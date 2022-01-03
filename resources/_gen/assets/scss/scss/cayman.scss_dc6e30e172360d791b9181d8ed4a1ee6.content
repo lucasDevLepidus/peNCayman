@@ -232,6 +232,28 @@ a {
   font-weight: bold; }
 
 /* Mudanças Lucas  */
+#header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(270deg, #a8daff 0%, #c1e8b3 100%);
+  padding: 2rem 4rem 1rem; }
+  #header .nav_links {
+    color: #222;
+    font-weight: 600;
+    padding: 14px; }
+  #header .imageLogo a img {
+    width: 60%; }
+  @media only screen and (max-width: 700px) {
+    #header {
+      flex-direction: column;
+      flex-wrap: wrap; }
+      #header .nav_links {
+        display: inline-block;
+        margin-top: 25px;
+        width: 40%; } }
 #form form {
   width: 65%;
   display: flex;
@@ -296,18 +318,6 @@ a {
         @media (max-width: 35.875rem) {
           #footer .container .row .footerCol {
             width: 100%; } }
-#header {
-  color: #fff;
-  text-align: center;
-  background-image: linear-gradient(to right top, #0ec2f3, #26d3e1, #6adfc9, #a4e8b4, #d9edaa);
-  padding: 3rem 4rem; }
-  #header h2 {
-    color: #212529; }
-  #header .nav_links {
-    color: #495057; }
-  #header .imageLogo a img {
-    width: 40%; }
-
 .copyright {
   background: #222;
   color: #819198;
@@ -318,7 +328,7 @@ a {
     text-decoration: underline; }
 
 .main-content h1 {
-  color: #0ec2f3; }
+  color: #28313b; }
 
 .main-content h2 {
   color: #3b4252; }
@@ -328,8 +338,3 @@ a {
 
 .main-content h4 {
   color: #339af0; }
-
-.nav_links {
-  display: inline-block;
-  padding: 14px;
-  color: #ffffff; }

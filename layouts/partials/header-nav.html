@@ -6,9 +6,15 @@
       </a>
     </div>
     <nav>
-      {{ $current := . }} {{ range .Site.Menus.nav }}
-      <a href="{{ .URL }}" class="nav_links"> {{ .Name }} </a>
-      {{ end }}
+      <ul>
+        {{ $current := . }} {{ range .Site.Menus.nav }}
+        <li>
+          <a href="{{ .URL }}"> {{ .Name }} </a>
+        </li>
+        {{ end }}
+      </ul>
     </nav>
   </div>
 </header>
+
+<script></script>

@@ -1,6 +1,6 @@
 <footer id="footer">
   <div class="container">
-    <div class="row">
+    <!-- <div class="row">
       <div class="footerCol">
         <ul>
           <li>
@@ -67,9 +67,7 @@
           </li>
         </ul>
       </div>
-    </div>
+    </div> -->
+    <span> {{ $.Site.Params.footer | markdownify }} </span>
   </div>
 </footer>
-<div class="copyright">
-  <span> {{ $.Site.Params.footer | markdownify }} </span>
-</div>

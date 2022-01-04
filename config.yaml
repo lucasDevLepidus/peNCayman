@@ -5,7 +5,7 @@ title: Periódicos em Nuvens
 theme: cayman-hugo-theme
 
 # Google analytics
-googleAnalytics: UA-123456789-1
+# googleAnalytics: UA-123456789-1
 
 # Disqus comments
 disqusShortname: yourdiscussshortname
@@ -33,7 +33,7 @@ params:
   css: /assets/scss/cayman.scss
 
   # Footer text, can be markdown
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [CloudFlare](https://dash.cloudflare.com/).
+  footer: Feito com [Hugo](https://gohugo.io/). Temático por [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme).
 
   logo:
     standard: /images/logo.png
@@ -41,9 +41,10 @@ params:
     penAzulBranco: /images/penAzulBranco.png
     logoPenAzulBranco: /images/logoPenAzulBranco.png
     newLogo: /images/peNLogoProvisoria.png
+    menuMobile: /images/menu.png
 
   # If true, the CSS/JS for Katex math typesetting are enabled
-  katex: true
+  # katex: true
 
   # Breakpoints
   large_breakpoint: 64em
